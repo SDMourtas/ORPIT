@@ -4,7 +4,7 @@ ORPIT is a Matlab toolbox containing all the necessary functions in order to cal
 
 # Documentation
 For usability and user experience, ORPIT has its own website. Detailed explanations on the theory background, the algorithmic procedure and a complete GUI tutorial can be found in the ORPIT's website: https://sites.google.com/view/orpit/. 
-The website comprises all the necessary theory background of the tenMatlab functions included in ORPIT in detail as well as the algorithmic procedures of them. It offers an installation guide for the toolbox, a complete user manual of the GUI and a variety of implementations.
+The website comprises all the necessary theory background of the ten Matlab functions included in ORPIT in detail as well as the algorithmic procedures of them. It offers an installation guide for the toolbox, a complete user manual of the GUI and a variety of implementations.
 
 # Installation
 *	Unzip the file you just downloaded and copy the ORPIT directory to a location,e.g.,/my-directory/

@@ -10,7 +10,7 @@ The website comprises all the necessary theory background of the tenMatlab funct
 *	Unzip the file you just downloaded and copy the ORPIT directory to a location,e.g.,/my-directory/
 *	The toolbox "inference with classifiers" must be downloaded and copied to the ORPIT directory. This toolbox can be found here: https://github.com/emanuele/inference_with_classifiers
 *	Run Matlab/ Octave, Go to /my-directory/ORPIT/ at the command prompt
-*	Type the command 'guitool' at the command prompt (Matlab/Octave)
+*	Type the command "guitool" at the command prompt (Matlab/Octave)
 
 # Environment
 ORPIT has been tested in Matlab 2016a on OS: Windows 10 64-bit.
